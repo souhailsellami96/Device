@@ -15,7 +15,7 @@ To build and run this app locally you will need a few things:
 ## Clone the repository
  git clone  https://github.com/souhailsellami96/Device.git
 ## Install dependencies
- ### cd <project_name>
+  cd <project_name>
  ` npm install `
  ### configure .env file 
 ``` Javascript
