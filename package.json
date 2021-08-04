@@ -1,0 +1,17 @@
+{
+  "name": "device",
+  "version": "1.0.0",
+  "description": "Labforward Virtual Device  ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "Souhail Sellami",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jest": "^27.0.6",
+    "mqtt": "^4.2.8"
+  }
+}
